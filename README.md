@@ -1,4 +1,4 @@
-# apartment_booking
+# Apartment Booking Flutter UI
 
 A new Flutter project.
 
